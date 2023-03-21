@@ -1,0 +1,17 @@
+; IP autorisés sur OpnSense Jesto
+; vpn.jesto.fr
+51.68.107.202
+; monitoring.jesto.fr
+178.32.213.140
+; aa.jesto.fr
+109.24.195.51
+; aa2.jesto.fr
+90.60.37.164
+; jf.jesto.fr
+78.196.170.27
+; jf2.jesto.fr
+91.164.184.55
+; do.jesto.fr
+82.66.152.160
+; pg.jesto.fr
+82.64.11.69
