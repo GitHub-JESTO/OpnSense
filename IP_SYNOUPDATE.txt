@@ -1,0 +1,15 @@
+global.download.synology.com
+global.synologydownload.com
+update7.synology.com
+autoupdate7.synology.com
+
+payment.synology.com
+account.synology.com
+global.download.synology.com
+download.synology.com
+www.synology.com
+www.synology.com/company/term_packagecenter.php
+pkgautoupdate7.synology.com
+pkgupdate7.synology.com
+pkgautoupdate.synologyupdate.com
+global.synologydownload.com
